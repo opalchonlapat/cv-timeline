@@ -2,7 +2,7 @@
 
 A timeline visualization of your experience that you put in your CV.
 
-## Getting Strated
+## Getting Started
 
 ### Prerequisites
 * Python 3.5+
