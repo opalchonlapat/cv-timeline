@@ -1,5 +1,5 @@
 jupyterlab==1.2.21
 pandas==1.0.1
-numpy==1.18.1
+numpy==1.22.0
 plotnine==0.6.0
 xlrd==1.2.0
