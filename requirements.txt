@@ -1,4 +1,4 @@
-jupyterlab==3.6.8
+jupyterlab==4.4.8
 pandas==1.0.1
 numpy==1.22.0
 plotnine==0.6.0
